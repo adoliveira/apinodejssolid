@@ -1,0 +1,139 @@
+Adjailson Oliveira
+
+Barueri - SP
+11999706021
+
+Sou um profissional de tecnologia a mais de 18 anos, atuando a maior parte desse tempo com desenvolvimento de sistemas mas ao longo da minha trajetória, planejando e organizando entregas soluções/plataformas, implementando sistemas e até mesmo resolvendo problemas/crises em sistemas, adquiri conhecimentos e capacidades relacionado a infraestrutura de tecnologia, arquitetura de sistemas, processo de desenvolvimento, metodologias ágeis e liderança de profissionais.
+
+INFORMAÇÃO PESSOAL
+  Address: , Barueri - SP, 
+  Date of birth:  02/09/1984
+
+PERFIS SOCIAIS
+  * Linkedin mais experiências: https://www.linkedin.com/in/adjailson-oliveira-a1960851/
+
+Hard Skills
+  ★★★★★ C#, JavaScript, TypeScript, VB, Golang
+  ★★★★★ .NET, .NET Core, NestJs, Serverless, Vue.Js, Angular
+  ★★★★★ OO, SOLID, Clean Code, Design Patterns, DDD, CQRS
+  ★★★★★ TDD: Unitário, integrado e carga, XUnit, Postman, Cypress, JMeter
+  ★★★★★ Arquitetura Event-Driven: Kafka, RabbitMQ e ServiceBus
+  ★★★★★ Cloud: Azure e AWS
+  ★★★★★ Dados: MSSQL, MySQL, CosmosDB, DynamoDB, Redis
+  ★★★★★ Container, Docker, Docker Compose, Kubernetes, Serverless
+  ★★★★★ Datadog, Elastic, Application Insights, AppDynamics
+  ★★★★★ Agilidade: Kanban e Scrum
+
+Soft Skills
+  ★★★★★ Resolução de problemas
+  ★★★★★ Liderança
+  ★★★★★ Proatividade
+  ★★★★★ Capacidade de planejamento
+  ★★★★★ Comunicação Assertiva
+
+EXPERIÊNCIA DE TRABALHO
+  * julho 2022 – Presente
+    Tech Lead para Bankly (Meliuz - CASH3), 
+      Atuando na Bankly que oferece BaaS - Bank as a Service, lidero um time técnico dedicado a unidade de negocio de Risco e Antifraude para os contextos de onboarding (KYC) e transacional (PIX, TED, Boleto e Cartão), são microserviços usando Event-Driven.
+
+Responsabilidades e Atividades:
+- Interações com o time, promovendo conhecimento técnico, visibilidade dos planos e melhoria dos processos;
+- Avaliar e acompanhar pull requests e deploy;
+- Atuar em incidentes;
+- Conduzir refinamentos técnicos;
+- Conduzir alinhamentos/negociações com times horizontais (Infra, SRE, Arquitetura, Plataforma, SegInfo) e/ou times de outras unidades de negocio;
+- Apoiar e interagir com PMs e demais Lideranças do negocio para refinamentos de iniciativas e planejamento de entrega, usamos OKRs;
+- Conduzir 1:1 com o time, passando feedback individual de soft e hard skills;
+- Apoiar e executar com o time elaboração de PDI.
+
+
+Principais entregas:
+- No contexto de onboarding (KYC), novo serviço para analise de selfie e documentos com possibilidade de integração a diversos provedores, neste primeiro momento foi integrado a Único Check, AWS Rekognition e BigDataCorp;
+- No contexto transacional (Cartão), refatorar e atualizar microserviço usado pelo autorizador de Cartões, diminuindo tempo de resposta conforme premissa da bandeira.
+
+
+  * fevereiro 2019 – junho 2022
+    Tech Lead para Braspag (Cielo), 
+      Atuando na Braspag que oferece soluções de pagamentos digitais, lidero um time técnico dedicado aos produtos de pagamentos digitais e e-commerce da Cielo, onde as soluções são api e-commerce, tela de checkout, link de pagamento, WhatsApp Pay P2M, QR Code e Autenticação 3DS 2.0.
+
+Responsabilidades e Atividades:
+- Interações com o time, promovendo conhecimento técnico, visibilidade dos planos e melhoria dos processos;
+- Avaliar e acompanhar pull requests e deploy;
+- Atuar em incidentes;
+- Conduzir refinamentos técnicos;
+- Conduzir alinhamentos/negociações com times horizontais (Infra, SRE, Arquitetura, Plataforma, SegInfo) e/ou times de outras unidades de negocio;
+- Apoiar e interagir com PMs e demais Lideranças do negocio para refinamentos de iniciativas e planejamento de entrega, usamos OKRs;
+- Conduzir 1:1 com o time, passando feedback individual de soft e hard skills;
+- Apoiar e executar com o time elaboração de PDI;
+- Interagir com o time de terceiros em algumas demandas;
+- Planejar e negociar plano de férias e/ou indisponibilidade.
+
+Principais entregas:
+- Integração de pagamento digital do WhatsApp Pay P2M seguindo arquitetura de segurança robusta;
+- Implementação de autenticação Mutual TLS;
+- Implementação de Link de pagamentos responsivo para melhor experiencia do cliente;
+- Implementação do meio de pagamento PIX conforme definição BACEN;
+- Modernização da principal Api transacional para Kubernetes permitindo escalabilidade, disponibilidade e eficiencia;
+- Implementação de Canary Deploy na principal Api transacional;
+- Implementação de APM melhorando visibilidade e monitoria da principal Api transacional;
+- Implementação e melhoria dos logs de negocio prevendo segurança da informação.
+
+  * janeiro 2018 – janeiro 2019
+    Arquiteto de Sistemas para iMonitore (Grupo Tecnowise), 
+      Atuando na iMonitore que oferece soluções de monitoramento e gestão de aulas/exames aos CFCs, a plataforma é composta por App Android, backend, frontend e serviços de integrações com Detrans, CFCs e terceiros.
+
+Responsabilidades e Atividades:
+- Interações com o time, promovendo conhecimento técnico e melhoria dos processos;
+- Implementar features mais complexas;
+- Avaliar e acompanhar pull requests;
+- Atuar em incidentes;
+- Desenhar abordagens de sistemas, envolvendo implementações internas e uso de recursos em cloud;
+- Construir POCs para demonstrar soluções e abordagens;
+
+Principais entregas:
+- Implementação de camada de dados, usando ElasticSearch, para otimizar roterização por lat/long dos monitoramentos realizados;
+- Implementação de serviço para concatenar os videos das aulas/exames de modo async;
+- Implementação da integração com ERP TOTVS para faturamento.
+
+  * janeiro 2015 – dezembro 2017
+    Analista Desenvolvedor Senior para Deloitte, 
+      Atuando em uma das 4 maiores empresas de auditoria e consultoria empresarial do mundo, faço parte do time de desenvolvimento da TI Corporativa da Deloitte, implementamos e sustentamos os sistemas de uso interno para solicitação de reembolso, apontamento de horas e ERP para gestão da oportumidades/projetos, todos com integração no SAP.
+
+Responsabilidades e Atividades:
+- Analise e desenvolvimento de demandas de Software;
+- Levantamento de requisitos;
+- Treinamento interno aos usuários do sistemas internos;
+- Atendimento e sustentação de sistemas internos;
+
+Principais entregas:
+- Implementação de uma plataforma de solicitação de reembolso totalmente digital e responsivo, integrado com o SAP e usando biometria para aplicação da alçada de aprovação;
+- Desenhar a primeira versão do processo desenvolvimento do time usando ferramentas de ALM da Microsoft;
+- Implementação de fluxos de solicitação para o time de Compliance da firma, usando MS Sharepoint e integrando no SAP;
+
+
+FORMAÇÃO
+  * janeiro 2000 – dezembro 2002
+    ITB, Barueri Ensino médio com técnico em informática
+  * janeiro 2005 – dezembro 2009
+    UNIBAN, Osasco Bacharel em Sistemas de Informação
+  * maio 2018 – agosto 2019
+    FIAP, Barueri MBA em Arquitetura de Soluções
+
+CURSOS
+  * 
+    Kanban KMP II, aspercom (Rodrigo Yoshima)
+  * 
+    Kanban KMP I, aspercom (Rodrigo Yoshima)
+  * 
+    Workshop de imersão Azure DEVOPS, Azure Academy
+  * 
+    Workshop de imersão Azure, Azure Academy
+  * 
+    Academia MS Visual Studio 2013, Ka Solution
+  * 
+    ALM Hands on Lab - MS Visual Studio 2013, MTC
+  * 
+    WPF 4.0, Ciclo Lisboa Portugal
+  * 
+    Adm de Redes Windows 2000 Server, ACR Informática
+
